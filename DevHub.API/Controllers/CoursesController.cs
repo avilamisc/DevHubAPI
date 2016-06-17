@@ -9,24 +9,30 @@ using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Description;
 using DevHub.API.Models;
+using DevHub.API.Repositories;
 
 namespace DevHub.API.Controllers
 {
     public class CoursesController : ApiController
     {
-        private DevHubContext db = new DevHubContext();
+        private ICourseRepository repo;
+
+        public CoursesController(ICourseRepository repo)
+        {
+            this.repo = repo;
+        }
 
         // GET: api/Courses
         public IEnumerable<Course> GetCourses()
         {
-            return db.Courses.ToList();
+            return repo.GetCourses();
         }
 
         // GET: api/Courses/5
         [ResponseType(typeof(Course))]
         public IHttpActionResult GetCourse(int id)
         {
-            Course course = db.Courses.Find(id);
+            Course course = repo.GetCourseByID(id);
             if (course == null)
             {
                 return NotFound();
@@ -49,22 +55,15 @@ namespace DevHub.API.Controllers
                 return BadRequest();
             }
 
-            db.Entry(course).State = EntityState.Modified;
+            repo.UpdateCourse(course);
 
             try
             {
-                db.SaveChanges();
+                repo.Save();
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!CourseExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
+                return NotFound();
             }
 
             return StatusCode(HttpStatusCode.NoContent);
@@ -79,8 +78,8 @@ namespace DevHub.API.Controllers
                 return BadRequest(ModelState);
             }
 
-            db.Courses.Add(course);
-            db.SaveChanges();
+            repo.InsertCourse(course);
+            repo.Save();
 
             return CreatedAtRoute("DefaultApi", new { id = course.Id }, course);
         }
@@ -89,30 +88,21 @@ namespace DevHub.API.Controllers
         [ResponseType(typeof(Course))]
         public IHttpActionResult DeleteCourse(int id)
         {
-            Course course = db.Courses.Find(id);
+            Course course = repo.GetCourseByID(id);
             if (course == null)
             {
                 return NotFound();
             }
 
-            db.Courses.Remove(course);
-            db.SaveChanges();
+            repo.DeleteCourse(id);
+            repo.Save();
 
             return Ok(course);
         }
 
         protected override void Dispose(bool disposing)
         {
-            if (disposing)
-            {
-                db.Dispose();
-            }
-            base.Dispose(disposing);
-        }
-
-        private bool CourseExists(int id)
-        {
-            return db.Courses.Count(e => e.Id == id) > 0;
+            repo.Dispose();
         }
     }
 }
