@@ -1,0 +1,116 @@
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\ApplicationInsights.config
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\csc.exe
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\vbc.exe
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\DevHub.API.dll.config
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\DevHub.API.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\DevHub.API.pdb
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\EntityFramework.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.Web.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Newtonsoft.Json.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Ninject.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Ninject.Web.Common.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Ninject.Web.WebApi.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\System.Web.Http.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\WebActivatorEx.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\EntityFramework.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.Web.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Ninject.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Ninject.Web.Common.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Ninject.Web.WebApi.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\Newtonsoft.Json.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\System.Web.Http.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\obj\Debug\DevHub.API.Migrations.InitialCreate.resources
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\obj\Debug\DevHub.API.Migrations.Initial.resources
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\obj\Debug\DevHub.API.csproj.GenerateResource.Cache
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\obj\Debug\DevHub.API.dll
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\obj\Debug\DevHub.API.pdb
+C:\Users\Alejandro\documents\visual studio 2015\Projects\DevHub\DevHub.API\obj\Debug\DevHub.API.csprojResolveAssemblyReference.cache
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\ApplicationInsights.config
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\csc.exe
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\vbc.exe
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\DevHub.API.dll.config
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\DevHub.API.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\DevHub.API.pdb
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\EntityFramework.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\EntityFramework.SqlServer.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.Web.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Newtonsoft.Json.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Ninject.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Ninject.Web.Common.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Ninject.Web.WebApi.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\System.Net.Http.Formatting.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\System.Web.Http.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\System.Web.Http.WebHost.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\WebActivatorEx.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\EntityFramework.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\EntityFramework.SqlServer.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.Web.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Ninject.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Ninject.Web.Common.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Ninject.Web.WebApi.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\Newtonsoft.Json.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\System.Net.Http.Formatting.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\System.Web.Http.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\bin\System.Web.Http.WebHost.xml
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\obj\Debug\DevHub.API.csprojResolveAssemblyReference.cache
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\obj\Debug\DevHub.API.Migrations.InitialCreate.resources
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\obj\Debug\DevHub.API.Migrations.Initial.resources
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\obj\Debug\DevHub.API.csproj.GenerateResource.Cache
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\obj\Debug\DevHub.API.dll
+C:\Users\AlejandroL\Desktop\DevHub\DevHub.API\obj\Debug\DevHub.API.pdb
